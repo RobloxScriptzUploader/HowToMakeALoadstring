@@ -1,0 +1,7 @@
+Alright, so this code: loadstring(game:httpget("https://github.com/robloxscriptzuploader/quickexecutor/blob/main/quickexecutorscript.lua"),true)) basically tells roblox to connect to github raw (basically where code is stored) and run it in their servers using the HTTP service: https://create.roblox.com/docs/reference/engine/classes/HttpService
+In this case, the code given connects to Pastebin and creates a post using the :PostAsync() function. But as well as that it gives info to use when posting.
+There is many ways to use the HttpService connection, as well as the "TextButton" or "ImageButton" object.
+
+
+
+YOU HAVE SUCCESSFULLY FINISHED STEP 1.
