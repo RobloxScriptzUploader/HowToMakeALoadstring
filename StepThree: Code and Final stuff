@@ -1,0 +1,8 @@
+Go to Roblox Studio and search "Gui 2 Lua", download the plugin and then create your GUI.
+When completed the GUI, tap the "Gui 2 Lua" button, roblox studio might freeze or crash, so remember to click save real quick to keep ur script.
+
+Then go back to your new file tab on chrome and paste ur lua code, then name it "*yourscriptnamehere*.lua".
+
+Now follow along:
+ This is a loadstring preset. Just tap raw on ur github file and copy the url then paste it in the loadstring preset.
+loadstring(game:httpget("https://github.com/robloxscriptzuploader/quickexecutor/blob/main/quickexecutorscript.lua"),true))
